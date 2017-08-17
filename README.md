@@ -1,0 +1,2 @@
+# tinyhtml
+Simple HTML minimizer
